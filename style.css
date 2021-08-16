@@ -66,3 +66,11 @@
         background-position: center;
         padding: 0;
     }
+    
+        
+    }
+    .thumbnails-holder{
+        display: flex;
+        align-items: center;
+        margin-left: 400px;
+    }
